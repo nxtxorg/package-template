@@ -1,8 +1,8 @@
 {
-  "name": "styling",
+  "name": "nxtx-package-name",
   "version": "0.0.1",
   "description": "",
-  "author": "Malte Rosenbjerg",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "rollup": "^1.15.6",
